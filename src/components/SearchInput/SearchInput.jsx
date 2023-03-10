@@ -11,6 +11,7 @@ const SearchInput = ({inputValue, onInputChange}) => {
                 alignItems: 'center',
                 width: '85%',
                 maxWidth: 500,
+                boxShadow: '0px 1px 25px rgba(50, 50, 50, 0.1)',
             }}
         >
             <SearchIcon />

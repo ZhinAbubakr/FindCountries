@@ -13,7 +13,7 @@ const HeaderSection = ({changeTheme,currentTheme}) => {
           width: "100%",
           height: 80,
           padding: 2,
-          boxShadow: "3",
+          boxShadow: '0px 1px 25px rgba(50, 50, 50, 0.1)',
           background: theme.palette.background.paper,
         }
       }
